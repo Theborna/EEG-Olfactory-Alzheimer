@@ -1,0 +1,31 @@
+Fitting a normal distribution
+----------------------------------
+
+Distribution: 1
+Name: PLV - Rare Stimulation (Normal)
+Type: Normal
+Parameters: 0.7221     0.28821
+----------------------------------
+
+Distribution: 2
+Name: PLV - Rare Stimulation (AD)
+Type: Normal
+Parameters: 0.50897     0.22419
+----------------------------------
+
+Distribution: 3
+Name: PLV - Frequent Stimulation (Normal)
+Type: Normal
+Parameters: 0.66524     0.31732
+----------------------------------
+
+Distribution: 4
+Name: PLV - Frequent Stimulation (AD)
+Type: Normal
+Parameters: 0.49516     0.29822
+----------------------------------
+
+P-values
+----------------------------------
+P-value - Rare Stimulation: 0.037169
+P-value - Frequent Stimulation: 0.156128

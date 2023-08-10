@@ -1,0 +1,6 @@
+P-values
+----------------------------------
+P-value - Rare Normal vs. Rare MCI: 0.743118
+P-value - Frequent Normal vs. Frequent MCI: 0.696025
+P-value - Rare AD vs. Rare MCI: 0.172157
+P-value - Frequent AD vs. Frequent MCI: 0.045176

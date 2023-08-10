@@ -1,0 +1,8 @@
+start_time:
+	subject 1: 14s
+	subject 2: 16.4s
+
+-----------
+Channels' Order Available in "Channels.jpg"
+-----------
+Only 120 trials were conducted in each experiment.

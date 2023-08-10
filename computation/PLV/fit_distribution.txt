@@ -1,0 +1,20 @@
+Distribution: 1
+Name: plv rare stimulation normal
+Type: Normal
+Parameters: 0.80049     0.24876
+----------------------------------
+Distribution: 2
+Name: plv rare stimulation AD
+Type: Normal
+Parameters: 0.62791     0.23108
+----------------------------------
+Distribution: 3
+Name: plv frequent stimulation normal
+Type: Normal
+Parameters: 0.79806     0.24233
+----------------------------------
+Distribution: 4
+Name: plv frequent stimulation AD
+Type: Normal
+Parameters: 0.62797     0.22849
+----------------------------------
