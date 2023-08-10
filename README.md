@@ -40,8 +40,7 @@ The PLV analysis indicates it could be a useful biomarker to differentiate AD an
 
 ## References
 
-Refer to `report.pdf` or `refs.bib` in the `report` directory for complete list of cited references.
-
+Refer to `report.pdf` for complete list of cited references.
 
 ## Code
 
